@@ -1,6 +1,6 @@
 # 🌟 Pro Heroes Association Bot 🌟
 
-![Banner](![World_Heroes_Association](https://github.com/user-attachments/assets/d526bcf5-4f68-4c48-8a49-6ee6ed0826e6))
+![World_Heroes_Association](https://github.com/user-attachments/assets/d526bcf5-4f68-4c48-8a49-6ee6ed0826e6)
 
 Welcome to the **Pro Heroes Association Bot**, your ultimate Discord server manager inspired by the **World Heroes Association** from the _My Hero Academia_ universe! 🌍💪
 
@@ -47,7 +47,7 @@ This bot is designed to help server owners and moderators maintain peace and har
 ---
 
 ## 📸 Bot Profile
-![Bot Avatar](![ProHeroesAssociation](https://github.com/user-attachments/assets/d0dfda86-442e-42a1-a9fb-d15d690c6b42))
+![ProHeroesAssociation](https://github.com/user-attachments/assets/d0dfda86-442e-42a1-a9fb-d15d690c6b42)
 
 - **Name**: Pro Heroes Association
 - **Tagline**: Safeguarding Discord servers like real Pro Heroes! 🦸‍♂️
