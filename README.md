@@ -55,7 +55,7 @@ This bot is designed to help server owners and moderators maintain peace and har
 ---
 
 ## 🚀 Getting Started
-### Step 1: Invite the Bot
+### Step 1: Invite the Bot (N.B. The bot TOKEN has been removed so you will have to add your own before using.)
 [Click here to invite the bot to your server!](#)
 
 ### Step 2: Set It Up
