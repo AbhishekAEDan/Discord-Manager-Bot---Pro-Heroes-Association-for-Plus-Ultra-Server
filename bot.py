@@ -193,5 +193,5 @@ async def set_prefix(ctx, prefix: str):
     bot.command_prefix = prefix
     await ctx.send(f'The command prefix has been updated to: `{prefix}`')
 
-TOKEN = 'MTMxNzQ0MzU4MTE3ODQxMzA3Ng.GGtL2A.6-iLUT8lKT4Kefi3L7JArXu9pYYuzA5MYn9ADs'
+TOKEN = [BOT TOKEN]
 bot.run(TOKEN)
